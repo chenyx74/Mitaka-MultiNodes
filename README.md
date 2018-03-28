@@ -4,6 +4,8 @@ Usually，The installation of OpenStack is difficulty，especially for new bird.
 
  How do use this codes? 
 
-1、you need prepare a controller node，a compute node，a storage node and astorage node.of course，the role of node can overlay；
+1、you need prepare a controller node，a compute node，a storage node and astorage node.of course，the role of node can overlay； 
+
 2、run openstack_multinodes_install_main.sh,and then enter the nubmber that you will deploy next;
+
 3、enjoy your openstack cloud.
